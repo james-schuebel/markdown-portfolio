@@ -1,0 +1,3 @@
+- [ ] ✨Turn _on_ GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
